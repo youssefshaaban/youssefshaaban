@@ -50,22 +50,22 @@
       <br>Rxjava
     </td>
       <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
+      <a href="#Swift">
+        <img src="https://seeklogo.com/images/S/swift-logo-E9182990F5-seeklogo.com.png" width="48" height="48" alt="Swift" />
       </a>
-      <br>Laravel
+      <br>Swift(basic knowledge)
     </td>
       <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      <a href="#MySQL">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
      <td align="center" width="96">
-      <a href="#ts">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      <a href="#netbeans">
+        <img src="https://seeklogo.com/images/N/NetBeans-logo-C762AE6DB8-seeklogo.com.png" width="100%" height="48" alt="netbeans" />
       </a>
-      <br>TypeScript
+      <br>Netbeans
     </td>
    
   </tr>
@@ -76,7 +76,7 @@
       </a>
       <br>Ubuntu
     </td>
-     <td align="center" width="96">
+     <td align="center" width="100">
       <a href="#Android Studio">
         <img src="https://seeklogo.com/images/A/android-new-2019-logo-3CD3BC571C-seeklogo.com.png" width="48" height="48" alt="Android Studio" />
       </a>
